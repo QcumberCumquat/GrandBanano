@@ -4,19 +4,19 @@
   "description": "Grand Bananoist",
   "icons": [
     {
-      "src": "img/3dIJ5000.png",
+      "src": "https://monkey.banano.cc/api/v1/monkey/ban_19a1u9akr41mtwu9ny8pa4hgk46gsbz6tgmhxcfrhc4dseidkbiw893xnywq?format=png&size=512&background=true",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "img/3dIJ5000.png",
+      "src": "https://monkey.banano.cc/api/v1/monkey/ban_19a1u9akr41mtwu9ny8pa4hgk46gsbz6tgmhxcfrhc4dseidkbiw893xnywq?format=png&size=512&background=true",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
     },
     {
-      "src": "img/3dIJ5000.png",
+      "src": "https://monkey.banano.cc/api/v1/monkey/ban_19a1u9akr41mtwu9ny8pa4hgk46gsbz6tgmhxcfrhc4dseidkbiw893xnywq?format=png&size=512&background=true",
       "type": "image/png",
       "sizes": "1024x1024",
       "purpose": "any maskable"
