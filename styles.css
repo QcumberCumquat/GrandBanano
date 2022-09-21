@@ -1,6 +1,6 @@
 h1 {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:24px;
+	font-size:16px;
 	font-weight:bold;
 	margin:0;
 	padding:0;
@@ -16,10 +16,11 @@ hr {
 #styletwo{
 	position:relative;
 	display:block;
-	height:72vh;
-	font-size:11vh;
+	height:24px;
+	font-size:11px;
 	font-weight:bold;
 	background:transparent url(bgOFF.gif) repeat-x top left;
+	font-family:Arial,Verdana,Helvitica,sans-serif;
 	}
 
 #styletwo ul{
@@ -38,9 +39,10 @@ hr {
 #styletwo ul li a{
 	display:block;
 	float:left;
+	color:#000;
 	text-decoration:none;
 	padding:6px 20px 0 20px;
-	height:72vh;
+	height:24px;
 	}
 
 #styletwo ul li a:hover,#styletwo ul li a.current{
