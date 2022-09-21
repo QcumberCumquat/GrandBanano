@@ -39,7 +39,7 @@ hr {
 #styletwo ul li a{
 	display:block;
 	float:left;
-	color:#000;
+	color:transparent;
 	text-decoration:none;
 	padding:6px 20px 0 20px;
 	height:24px;
