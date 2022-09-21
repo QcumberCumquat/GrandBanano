@@ -8,8 +8,8 @@ hr {
 #styletwo{
 	position:relative;
 	display:block;
-	height:24px;
-	font-size:11px;
+	height:24vh;
+	font-size:11vh;
 	font-weight:bold;
 	background:transparent url(bgOFF.gif) repeat-x top left;
 	font-family:Arial,Verdana,Helvitica,sans-serif;
@@ -34,7 +34,7 @@ hr {
 	color:#000;
 	text-decoration:none;
 	padding:6px 20px 0 20px;
-	height:24px;
+	height:24vh;
 	}
 
 #styletwo ul li a:hover,#styletwo ul li a.current{
