@@ -8,11 +8,10 @@ hr {
 #styletwo{
 	position:relative;
 	display:block;
-	height:24vh;
+	height:72vh;
 	font-size:11vh;
 	font-weight:bold;
 	background:transparent url(bgOFF.gif) repeat-x top left;
-	font-family:Arial,Verdana,Helvitica,sans-serif;
 	}
 
 #styletwo ul{
@@ -31,10 +30,9 @@ hr {
 #styletwo ul li a{
 	display:block;
 	float:left;
-	color:#000;
 	text-decoration:none;
 	padding:6px 20px 0 20px;
-	height:24vh;
+	height:72vh;
 	}
 
 #styletwo ul li a:hover,#styletwo ul li a.current{
